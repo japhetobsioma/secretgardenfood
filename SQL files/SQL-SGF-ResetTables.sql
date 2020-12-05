@@ -1,0 +1,9 @@
+DELETE FROM receipt;
+DELETE FROM applymembership;
+DELETE FROM premium;
+DELETE FROM reservation;
+DELETE FROM customer;
+DELETE FROM orderdetails;
+DELETE FROM orderfood;
+DELETE FROM food;
+DELETE FROM roomtable;
