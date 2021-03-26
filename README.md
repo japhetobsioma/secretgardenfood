@@ -1,6 +1,7 @@
 # secretgardenfood - Object Oriented Modelling Coursework
 
 ## Instruction
+
 1. Download all files
 2. Extract secretgardenfood-sql-update-v2.Zip
 3. Go to localhost/phpmyadmin
@@ -12,10 +13,17 @@
 8. Run project
 
 ## Group Member Contribution
+
 ### Documentation
+
 - Shamsul Bin Majid
 - Chong Wei Shen
 
 ### Coding
+
 - Japhet Mert Catilo Obsioma - Java(90%), SQL, Database, PDF-Converter
 - Jagaanathan A/L Kathiravelu - Java(10%), Video Demo, README
+
+## Screenshots
+
+[View here](secretgardenfood_screenshots.pdf)
